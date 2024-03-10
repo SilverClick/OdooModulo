@@ -1,0 +1,21 @@
+   <odoo>
+    <data>
+
+        <record model="materiales" id="openacademy.materiales">
+
+            <field name="name">Gonzalo</field>
+            <field name="description">No es un material</field>
+
+
+        </record>
+         <record model="materiales2" id="openacademy.materiales2">
+
+            <field name="name">Lidier</field>
+            <field name="description">Es un material</field>
+
+
+        </record>
+
+
+    </data>
+</odoo>
