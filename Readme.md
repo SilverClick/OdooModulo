@@ -46,8 +46,8 @@ Una vez creado el modulo lo primero que haremos será cambiar el nombre, la desc
 
 'description': """Este es mi modulo de odoo""",
 
-'author': "NSteuerberg",
-'website': "https://www.nsteuerberg_openacademy.com",
+'author': "gonzalo",
+'website': "https://www.gonzalo_openacademy.com",
 ```
 tambien podriamos cambiar la version del modulo, esta la cambiaremos todo el rato que  cambiemos algo para poder asegurarnos de que se haya subido correctamente.
 ```python
